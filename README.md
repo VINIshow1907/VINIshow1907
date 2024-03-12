@@ -1,7 +1,7 @@
 ## Oi tudo bem? Seja bem vindo! Eu sou Vinicius Lúcio Marcolino Da Silva.
 -  💻 Sou Técnico em Desenvolvimento de Sistemas, formado pela Etec Jales.
 -   🖥️⌨️🖱️Atualmente estou matriculado na Fatec Jales, onde curso Análise e Desenvolvimento de Sistemas (ADS-AMS).
--   
+
 
 <div align="center">
   <a href="https://github.com/VINIshow1907/">
