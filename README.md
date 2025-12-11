@@ -11,11 +11,24 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VINIshow1907&show_icons=true&theme=dark&hide_border=true" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VINIshow1907&theme=nord_dark" alt="Stats" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VINIshow1907&hide=Html&theme=nord_dark" alt="Linguagens por Repo" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VINIshow1907&theme=nord_dark" alt="Linguagens por Commit" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VINIshow1907&theme=nord_dark" alt="Detalhes do Perfil" />
 </div>
-
 <br/>
 
 <div align="center">
