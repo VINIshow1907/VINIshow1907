@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VINIshow1907&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VINIshow1907&show_icons=true&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
