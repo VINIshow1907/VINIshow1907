@@ -1,37 +1,30 @@
-<div align="center">
-  <h2>Oi, tudo bem? Seja bem-vindo! 👋</h2>
-  <h3>Eu sou Vinicius Lúcio Marcolino Da Silva</h3>
-</div>
-
-<br/>
+## Oi, tudo bem? Seja bem-vindo! 👋
+### Eu sou Vinicius Lúcio Marcolino Da Silva
 
 - 💻 Sou Técnico em Desenvolvimento de Sistemas, formado pela Etec Jales.
 - 🖥️ Atualmente estou matriculado na Fatec Jales, onde curso Análise e Desenvolvimento de Sistemas (ADS-AMS).
 
 <br/>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VINIshow1907&theme=nord_dark" alt="Stats" />
-      </td>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VINIshow1907&hide=Html&theme=nord_dark" alt="Linguagens por Repo" />
-      </td>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VINIshow1907&theme=nord_dark" alt="Linguagens por Commit" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VINIshow1907&theme=nord_dark" alt="Detalhes do Perfil" />
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VINIshow1907&theme=nord_dark" alt="Stats" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VINIshow1907&hide=Html&theme=nord_dark" alt="Linguagens por Repo" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VINIshow1907&theme=nord_dark" alt="Linguagens por Commit" />
+    </td>
+  </tr>
+</table>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VINIshow1907&theme=nord_dark" alt="Detalhes do Perfil" />
+
 <br/>
 
-<div align="center">
+<div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -42,9 +35,8 @@
 </div>
 
 <br/>
+<br/>
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/vinicius-lucio-809364258/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  
-</div>
+<a href="https://www.linkedin.com/in/vinicius-lucio-809364258/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
